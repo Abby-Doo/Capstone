@@ -1,6 +1,0 @@
-Disease,Model,SCORE Coefficient,P-value,CI Lower,CI Upper,Pseudo R²,AIC
-Lyme,Negative Binomial,4.144,0.0,3.072,5.215,0.822,390.708
-Anaplasmosis,Negative Binomial,-1.019,0.072,-2.128,0.09,0.26,136.375
-Ehrlichiosis,Poisson,1.687,0.103,-0.344,3.717,0.212,57.215
-Undetermined,Negative Binomial,-1.294,0.423,-4.457,1.869,0.045,87.672
-Babesiosis,Negative Binomial,0.438,0.432,-0.654,1.531,0.056,85.905
